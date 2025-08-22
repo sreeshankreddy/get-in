@@ -79,8 +79,9 @@ color: #fff;
  a:hover {
   color:#fff
  }
- body {
+body {
   font-family: "Cabin", Arial, sans-serif;
-  color: #black;
+  color: black; /* or use #000000 */
   background-color: #000000;
- }
+}
+
