@@ -80,9 +80,9 @@ color: #fff;
   color:#fff
  }
 body {
-  font-family: "Cabin", Arial, sans-serif;
+  font-family: "Cabin", black, sans-serif;
   color: black; /* or use #800000 */
-  background-color: #000000;
+  background-color: black;
 }
 
 
