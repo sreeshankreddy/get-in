@@ -1,4 +1,4 @@
- @import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
  h1, h2, h3, h4, h5, h6 {
   font-family: 'Lobster', cursive;
  }
@@ -11,7 +11,8 @@
  }
  .navbar-light .navbar-brand {
   font-family: 'Lobster', cursive;
-color: #fff;
+  color: #fff;
+ }
  .navbar-light .navbar-toggler {
   color: white;
   border-color:red;
@@ -82,5 +83,13 @@ color: #fff;
  body {
   font-family: "Cabin", Arial, sans-serif;
   color: #fff;
-  background-color: #108a93;
+  background-color: lightgray;
+ }
+ .title-box {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  margin-top: 50px;
+  text-align: center;
+  border-radius: 10px;
  }
